@@ -25,7 +25,7 @@ https://discord.gg/m3kVwYM
 
 [Sistemas da Computação](https://github.com/davidjralves/MIETI/tree/master/1_Ano/Sistemas%20da%20Computa%C3%A7%C3%A3o)
 
-Análise de Circuitos
+[Análise de Circuitos](https://github.com/davidjralves/MIETI/tree/master/1_Ano/An%C3%A1lise%20de%20Circuitos)
 
 Métodos de Programação I
 
