@@ -40,6 +40,7 @@ Sistemas Digitais
 Métodos de Programação II
 
 **2º Ano**
+
 Complementos de Análise Matemática
 
 Eletromagnetismo
@@ -93,7 +94,19 @@ Codificação e Transmissão
 
 Sistemas de Comunicações Óticas
 
+Criptografia	
 
+Projeto de Telecomunicações e Informática I	
+
+Segurança em Redes de Computadores	
+
+Tecnologias e Serviços Multimédia	
+
+Sistemas de Telecomunicações
+
+Redes Móveis	
+
+Projeto de Telecomunicações e Informática II	
 
 **5º Ano**
 
