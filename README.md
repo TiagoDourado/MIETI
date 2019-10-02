@@ -23,7 +23,7 @@ https://discord.gg/m3kVwYM
 
 [Cálculo](https://github.com/davidjralves/MIETI/tree/master/1_Ano/C%C3%A1lculo)
 
-Sistemas da Computação
+[Sistemas da Computação] (https://github.com/davidjralves/MIETI/tree/master/1_Ano/Sistemas%20da%20Computa%C3%A7%C3%A3o)
 
 Análise de Circuitos
 
