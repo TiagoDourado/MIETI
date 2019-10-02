@@ -19,7 +19,7 @@ https://discord.gg/m3kVwYM
 ### Estrutura do curso
 **1º Ano**
 
-Álgebra Linear
+[Álgebra Linear](https://github.com/davidjralves/MIETI/tree/master/1_Ano/%C3%81lgebra%20Linear)
 
 Cálculo
 
