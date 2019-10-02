@@ -21,7 +21,7 @@ https://discord.gg/m3kVwYM
 
 [Álgebra Linear](https://github.com/davidjralves/MIETI/tree/master/1_Ano/%C3%81lgebra%20Linear)
 
-Cálculo
+[Cálculo](https://github.com/davidjralves/MIETI/tree/master/1_Ano/C%C3%A1lculo)
 
 Sistemas da Computação
 
