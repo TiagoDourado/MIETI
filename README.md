@@ -63,7 +63,7 @@ Paradigmas de Programação II
 
 
 
-**3ºAno**
+**3º Ano**
 
 Processamento de Sinal
 
