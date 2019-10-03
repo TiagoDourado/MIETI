@@ -1,5 +1,5 @@
 # MIETI
-Este repositório contém documentação das várias unidades curriculares que constituem o curso de Engenharia de Telecomunicações e Informática. Resulta da agregação de vários repositórios que existiram no curso, além disso contém documentação presente em repositórios de outros cursos.
+Este repositório contém documentação das várias unidades curriculares que constituem o curso de Engenharia de Telecomunicações e Informática. Resulta da agregação de vários repositórios que existiram no curso, além disso contém documentação presente em repositórios de outros cursos. 
 
 ----
 
@@ -14,6 +14,10 @@ https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ
 **Discord do MIEI:**                                                                   
 https://discord.gg/m3kVwYM
 
+
+**Website com a resolução de exercícios de livros das unidades curriculares:**                  
+https://www.slader.com
+
 ---
 
 ### Estrutura do curso
@@ -27,7 +31,7 @@ https://discord.gg/m3kVwYM
 
 [Análise de Circuitos](https://github.com/davidjralves/MIETI/tree/master/1_Ano/An%C3%A1lise%20de%20Circuitos)
 
-Métodos de Programação I
+[Métodos de Programação I](https://github.com/davidjralves/MIETI/tree/master/1_Ano/M%C3%A9todos%20de%20Programa%C3%A7%C3%A3o%20I)
 
 Análise Matemática 
 
