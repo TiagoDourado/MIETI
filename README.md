@@ -14,6 +14,10 @@ https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ
 **Discord do MIEI:**                                                                   
 https://discord.gg/m3kVwYM
 
+
+**Website com a resolução de exercícíos de livros das unidades curriculares:**                  
+https://www.slader.com
+
 ---
 
 ### Estrutura do curso
