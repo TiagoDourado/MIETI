@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ
 https://discord.gg/m3kVwYM
 
 
-**Website com a resolução de exercícíos de livros das unidades curriculares:**                  
+**Website com a resolução de exercícios de livros das unidades curriculares:**                  
 https://www.slader.com
 
 ---
