@@ -33,7 +33,7 @@ https://www.slader.com
 
 [Métodos de Programação I](https://github.com/davidjralves/MIETI/tree/master/1_Ano/M%C3%A9todos%20de%20Programa%C3%A7%C3%A3o%20I)
 
-Análise Matemática 
+[Análise Matemática](https://github.com/davidjralves/MIETI/tree/master/1_Ano/An%C3%A1lise%20Matem%C3%A1tica)
 
 Física 
 
