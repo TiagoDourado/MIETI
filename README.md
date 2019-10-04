@@ -4,7 +4,7 @@ Este repositório contém documentação das várias unidades curriculares que c
 ----
 
 ### Links úteis
-**Repositório do MIECOM(curso que antecedeu o MIETI):**
+**Repositório do MIECOM (curso que antecedeu o MIETI):**
 https://www.dropbox.com/sh/rv75htjilnl3g26/AACFRsFBiVRr9bNixJGM50c5a?dl=0
 
 
