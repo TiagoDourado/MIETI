@@ -35,7 +35,7 @@ https://www.slader.com
 
 [Análise Matemática](https://github.com/davidjralves/MIETI/tree/master/1_Ano/An%C3%A1lise%20Matem%C3%A1tica)
 
-Física 
+[Física](https://github.com/davidjralves/MIETI/tree/master/1_Ano/F%C3%ADsica)
 
 [Estatística Aplicada](https://github.com/davidjralves/MIETI/tree/master/1_Ano/Estat%C3%ADstica%20Aplicada)
 
