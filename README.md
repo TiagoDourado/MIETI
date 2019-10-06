@@ -37,7 +37,7 @@ https://www.slader.com
 
 Física 
 
-Estatística Aplicada
+[Estatística Aplicada](https://github.com/davidjralves/MIETI/tree/master/1_Ano/Estat%C3%ADstica%20Aplicada)
 
 Sistemas Digitais
 
