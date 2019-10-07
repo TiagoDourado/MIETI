@@ -59,7 +59,7 @@ https://www.slader.com
 
 [Investigação Operacional](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Investiga%C3%A7%C3%A3o%20Operacional)
 
-Teoria de Sistemas para Telecomunicações
+[Teoria de Sistemas para Telecomunicações](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Teoria%20de%20Sistemas%20para%20Telecomunica%C3%A7%C3%B5es)
 
 [Eletrónica II](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Eletr%C3%B3nica%20II)
 
