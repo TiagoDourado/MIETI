@@ -63,7 +63,7 @@ https://www.slader.com
 
 [Eletrónica II](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Eletr%C3%B3nica%20II)
 
-Paradigmas de Programação II-(Unidade curricular de projeto)
+Paradigmas de Programação II
 
 
 
