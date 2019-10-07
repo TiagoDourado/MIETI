@@ -57,7 +57,7 @@ https://www.slader.com
 
 [Métodos Numéricos e Otimização não Linear](https://github.com/davidjralves/MIETI/tree/master/2_Ano/M%C3%A9todos%20Num%C3%A9ricos%20e%20Otimiza%C3%A7%C3%A3o%20n%C3%A3o%20Linear)
 
-Investigação Operacional
+[Investigação Operacional](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Investiga%C3%A7%C3%A3o%20Operacional)
 
 Teoria de Sistemas para Telecomunicações
 
