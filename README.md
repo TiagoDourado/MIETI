@@ -71,19 +71,19 @@ https://www.slader.com
 
 [Processamento de Sinal](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Processamento%20de%20Sinal)
 
-Sistemas Operativos
+[Sistemas Operativos](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Sistemas%20Operativos)
 
-Radiação, Propagação e Antenas
+[Radiação, Propagação e Antenas](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Radia%C3%A7%C3%A3o%2C%20Propaga%C3%A7%C3%A3o%20e%20Antenas)
 
-Redes de Computadores I
+[Redes de Computadores I](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Redes%20de%20Computadores%20I)
 
-Laboratórios de Telecomunicações e Informática I
+[Laboratórios de Telecomunicações e Informática I](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Laborat%C3%B3rios%20de%20Telecomunica%C3%A7%C3%B5es%20e%20Inform%C3%A1tica%20I)
 
-Processamento Digital de Sinal	
+[Processamento Digital de Sinal](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Processamento%20Digital%20de%20Sinal)	
 
-Tecnologias de Bases de Dados
+[Tecnologias de Bases de Dados](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Tecnologias%20de%20Bases%20de%20Dados)
 
-Sistemas Distribuídos
+[Sistemas Distribuídos](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Sistemas%20Distribu%C3%ADdos)
 
 Redes de Computadores II
 
