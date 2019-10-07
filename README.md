@@ -85,9 +85,9 @@ https://www.slader.com
 
 [Sistemas Distribuídos](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Sistemas%20Distribu%C3%ADdos)
 
-Redes de Computadores II
+[Redes de Computadores II](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Redes%20de%20Computadores%20II)
 
-Laboratórios de Telecomunicações e Informática II	
+[Laboratórios de Telecomunicações e Informática II](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Laborat%C3%B3rios%20de%20Telecomunica%C3%A7%C3%B5es%20e%20Inform%C3%A1tica%20II)	
 
 
 **4º Ano**
