@@ -61,7 +61,7 @@ Investigação Operacional
 
 Teoria de Sistemas para Telecomunicações
 
-Eletrónica II
+[Eletrónica II](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Eletr%C3%B3nica%20II)
 
 Paradigmas de Programação II
 
