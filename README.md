@@ -41,13 +41,13 @@ https://www.slader.com
 
 [Sistemas Digitais](https://github.com/davidjralves/MIETI/tree/master/1_Ano/Sistemas%20Digitais)
 
-Métodos de Programação II
+[Métodos de Programação II](https://github.com/davidjralves/MIETI/tree/master/1_Ano/M%C3%A9todos%20de%20Programa%C3%A7%C3%A3o%20II)
 
 **2º Ano**
 
-Complementos de Análise Matemática
+[Complementos de Análise Matemática](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Complementos%20de%20An%C3%A1lise%20Matem%C3%A1tica)
 
-Eletromagnetismo
+[Eletromagnetismo](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Complementos%20de%20An%C3%A1lise%20Matem%C3%A1tica)
 
 Microcontroladores
 
