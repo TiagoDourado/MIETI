@@ -39,7 +39,7 @@ https://www.slader.com
 
 [Estatística Aplicada](https://github.com/davidjralves/MIETI/tree/master/1_Ano/Estat%C3%ADstica%20Aplicada)
 
-Sistemas Digitais
+[Sistemas Digitais](https://github.com/davidjralves/MIETI/tree/master/1_Ano/Sistemas%20Digitais)
 
 Métodos de Programação II
 
