@@ -102,7 +102,7 @@ Sistemas de Comunicações Óticas
 
 [Projeto de Telecomunicações e Informática I](https://github.com/davidjralves/MIETI/tree/master/4_Ano/Sistemas%20de%20Comunica%C3%A7%C3%B5es%20%C3%93ticas)	
 
-Segurança em Redes de Computadores	
+[Segurança em Redes de Computadores](https://github.com/davidjralves/MIETI/tree/master/4_Ano/Seguran%C3%A7a%20em%20Redes%20de%20Computadores)
 
 Tecnologias e Serviços Multimédia	
 
