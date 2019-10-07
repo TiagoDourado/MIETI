@@ -53,7 +53,7 @@ https://www.slader.com
 
 [Eletrónica I](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Eletr%C3%B3nica%20I)
 
-Paradigmas da Programação I
+[Paradigmas da Programação I](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Paradigmas%20de%20Programa%C3%A7%C3%A3o%20I)
 
 Métodos Numéricos e Otimização não Linear
 
