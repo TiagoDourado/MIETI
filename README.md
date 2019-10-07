@@ -63,7 +63,7 @@ https://www.slader.com
 
 [Eletrónica II](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Eletr%C3%B3nica%20II)
 
-Paradigmas de Programação II
+[Paradigmas de Programação II](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Paradigmas%20de%20Programa%C3%A7%C3%A3o%20II)
 
 
 
