@@ -55,7 +55,7 @@ https://www.slader.com
 
 [Paradigmas da Programação I](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Paradigmas%20de%20Programa%C3%A7%C3%A3o%20I)
 
-Métodos Numéricos e Otimização não Linear
+[Métodos Numéricos e Otimização não Linear](https://github.com/davidjralves/MIETI/tree/master/2_Ano/M%C3%A9todos%20Num%C3%A9ricos%20e%20Otimiza%C3%A7%C3%A3o%20n%C3%A3o%20Linear)
 
 Investigação Operacional
 
