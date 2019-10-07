@@ -49,9 +49,9 @@ https://www.slader.com
 
 [Eletromagnetismo](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Complementos%20de%20An%C3%A1lise%20Matem%C3%A1tica)
 
-Microcontroladores
+[Microcontroladores](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Microcontroladores)
 
-Eletrónica I
+[Eletrónica I](https://github.com/davidjralves/MIETI/tree/master/2_Ano/Eletr%C3%B3nica%20I)
 
 Paradigmas da Programação I
 
