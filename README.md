@@ -69,7 +69,7 @@ https://www.slader.com
 
 **3º Ano**
 
-Processamento de Sinal
+[Processamento de Sinal](https://github.com/davidjralves/MIETI/tree/master/3_Ano/Processamento%20de%20Sinal)
 
 Sistemas Operativos
 
