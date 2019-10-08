@@ -104,7 +104,7 @@ https://calendar.google.com/calendar/embed?src=h8tkbg8ukf86nj939pugj1jvs4%40grou
 
 [Criptografia](https://github.com/davidjralves/MIETI/tree/master/4_Ano/Criptografia)
 
-[Projeto de Telecomunicações e Informática I](https://github.com/davidjralves/MIETI/tree/master/4_Ano/Sistemas%20de%20Comunica%C3%A7%C3%B5es%20%C3%93ticas)	
+[Projeto de Telecomunicações e Informática I](https://github.com/davidjralves/MIETI/tree/master/4_Ano/Projeto%20de%20Telecomunica%C3%A7%C3%B5es%20e%20Inform%C3%A1tica%20I)	
 
 [Segurança em Redes de Computadores](https://github.com/davidjralves/MIETI/tree/master/4_Ano/Seguran%C3%A7a%20em%20Redes%20de%20Computadores)
 
