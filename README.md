@@ -18,6 +18,9 @@ https://discord.gg/m3kVwYM
 **Website com a resolução de exercícios de livros das unidades curriculares:**                  
 https://www.slader.com
 
+
+**Calendário de testes e projetos do MIETI**
+https://calendar.google.com/calendar/embed?src=h8tkbg8ukf86nj939pugj1jvs4%40group.calendar.google.com&ctz=Europe%2FLisbon
 ---
 
 ### Estrutura do curso
