@@ -19,7 +19,7 @@ https://discord.gg/m3kVwYM
 https://www.slader.com
 
 
-**Calendário de testes e projetos do MIETI**
+**Calendário de testes e projetos do MIETI**                                  
 https://calendar.google.com/calendar/embed?src=h8tkbg8ukf86nj939pugj1jvs4%40group.calendar.google.com&ctz=Europe%2FLisbon
 
 ---
