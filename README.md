@@ -30,7 +30,7 @@ https://repositorium.sdum.uminho.pt/
 https://whereis.uminho.pt/
 
 **Sistema de reservas de salas da biblioteca:**                      
-https://reservas.sdum.uminho.pt/Web/
+https://reservas.sdum.uminho.pt/
 
 ---
 
