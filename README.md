@@ -22,6 +22,10 @@ https://www.slader.com
 **Calendário de testes e projetos do MIETI**                                  
 https://calendar.google.com/calendar/embed?src=h8tkbg8ukf86nj939pugj1jvs4%40group.calendar.google.com&ctz=Europe%2FLisbon
 
+
+**Repositório da biblioteca da Universidade do Minho**
+https://repositorium.sdum.uminho.pt/
+
 ---
 
 ### Estrutura do curso
