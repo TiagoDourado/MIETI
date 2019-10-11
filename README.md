@@ -23,13 +23,13 @@ https://www.slader.com
 https://calendar.google.com/calendar/embed?src=h8tkbg8ukf86nj939pugj1jvs4%40group.calendar.google.com&ctz=Europe%2FLisbon
 
 
-**Repositório da biblioteca da Universidade do Minho:**                                                         
+**Repositório da biblioteca:**                                                         
 https://repositorium.sdum.uminho.pt/
 
-**Localização das salas da Universidade do Minho**                                           
+**Localização das salas:**                                           
 https://whereis.uminho.pt/
 
-**Sistema de reservas de salas da biblioteca da Universidade do Minho:**                      
+**Sistema de reservas de salas da biblioteca:**                      
 https://reservas.sdum.uminho.pt/Web/?
 
 ---
