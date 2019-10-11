@@ -19,12 +19,18 @@ https://discord.gg/m3kVwYM
 https://www.slader.com
 
 
-**Calendário de testes e projetos do MIETI**                                  
+**Calendário de testes e projetos do MIETI:**                                  
 https://calendar.google.com/calendar/embed?src=h8tkbg8ukf86nj939pugj1jvs4%40group.calendar.google.com&ctz=Europe%2FLisbon
 
 
-**Repositório da biblioteca da Universidade do Minho**
+**Repositório da biblioteca da Universidade do Minho:**                                                         
 https://repositorium.sdum.uminho.pt/
+
+**Localização das salas da Universidade do Minho**                                           
+https://whereis.uminho.pt/
+
+**Sistema de reservas de salas da biblioteca da Universidade do Minho:**                      
+https://reservas.sdum.uminho.pt/Web/?
 
 ---
 
