@@ -32,6 +32,10 @@ https://whereis.uminho.pt/
 **Sistema de reservas de salas da biblioteca:**                      
 https://reservas.sdum.uminho.pt/
 
+
+**Website do MIETI**
+http://mieti.eng.uminho.pt/
+
 ---
 
 ### Estrutura do curso
