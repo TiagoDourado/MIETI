@@ -33,7 +33,7 @@ https://whereis.uminho.pt/
 https://reservas.sdum.uminho.pt/
 
 
-**Website do MIETI**                                                                                     
+**Website do MIETI:**                                                                                     
 http://mieti.eng.uminho.pt/
 
 ---
