@@ -36,6 +36,10 @@ https://reservas.sdum.uminho.pt/
 **Website do MIETI:**                                                                                     
 http://mieti.eng.uminho.pt/
 
+
+**App para calcular média do curso(Autor:)**
+https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US
+
 ---
 
 ### Estrutura do curso
