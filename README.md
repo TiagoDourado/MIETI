@@ -37,7 +37,7 @@ https://reservas.sdum.uminho.pt/
 http://mieti.eng.uminho.pt/
 
 
-**App para calcular média do curso(Autor:)**
+**App para calcular média do curso(Autor:[Ruben Sousa](https://github.com/rubensousa))**
 https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US
 
 ---
